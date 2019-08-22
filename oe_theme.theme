@@ -1062,7 +1062,7 @@ function oe_theme_preprocess_pattern_timeline(array &$variables): void {
   }
 }
 
-/*
+/**
  * Implements template_preprocess_language_selection_page_content().
  */
 function oe_theme_preprocess_language_selection_page_content(&$variables) {
